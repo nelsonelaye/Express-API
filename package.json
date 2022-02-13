@@ -1,0 +1,25 @@
+{
+  "name": "CRUD API with JSON Data",
+  "version": "1.0.0",
+  "description": "Perfoming API CRUD operation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "nodemon server.js"
+  },
+  "keywords": [
+    "Express",
+    "NodeJS",
+    "JSON",
+    "API",
+    "REST API"
+  ],
+  "author": "Nelson",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

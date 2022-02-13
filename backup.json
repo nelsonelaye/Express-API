@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Michael",
+        "course": "Project management",
+        "age": "17",
+        "school": "UNILAG"
+    },
+    {
+        "name": "John",
+        "course": "Fundraising",
+        "age": "21",
+        "school": "LASU"
+    },
+    {
+        "name": "Grace",
+        "course": "Computer Science",
+        "age": "28",
+        "school": "LAUTECH"
+    },
+    {
+        "name": "Blessing",
+        "course": "Business Administration",
+        "age": "35",
+        "school": "DELSU"
+    },
+    {
+        "name": "Precious",
+        "course": "Estate Management",
+        "age": "20",
+        "school": "UNIILORIN"
+    },
+    {
+        "name": "Christian",
+        "course": "Computer Engineering",
+        "age": "43",
+        "school": "Caleb University"
+    },
+    {
+        "name": "Maxwell",
+        "course": "Psychology",
+        "age": "18",
+        "school": "Nile University"
+    },
+    {
+        "name": "Walter",
+        "course": "Envrionmental Science",
+        "age": "37",
+        "school": "Adeleke University"
+    },
+    {
+        "name": "Dark",
+        "course": "Earth Science",
+        "age": "45",
+        "school": "Landmark University"
+    },
+    {
+        "name": "kelvin",
+        "course": "Mass Communication",
+        "age": "23",
+        "school": "Princeton University"
+    }
+]
